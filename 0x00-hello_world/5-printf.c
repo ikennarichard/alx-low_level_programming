@@ -1,5 +1,5 @@
 #include <stdio.h>
-/*
+/**
  * main - The program entry point
  *
  * Description: Prints a string using the printf command
