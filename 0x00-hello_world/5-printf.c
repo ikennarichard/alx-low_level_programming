@@ -1,6 +1,6 @@
 #include <stdio.h>
 /*
- * main - Program start
+ * main: Program main start
  *
  * Description: Prints a string using the printf command
  *
@@ -8,6 +8,6 @@
  */
 int main(void)
 {
-	printf("with proper grammar, but the outcome is a piece of art,");
+	printf("with proper grammar, but the outcome is a piece of art,\n");
 	return (0);
 }
