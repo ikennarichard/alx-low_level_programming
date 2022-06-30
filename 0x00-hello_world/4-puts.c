@@ -1,10 +1,13 @@
 #include <stdio.h>
-/**
- * main - The entry point of our program
 
- * Description: This C program will print a strinng using the puts function
- 
+/*
+ * main -Entry point of our program
+ *
+ * Description: C program that prints a striing with the puts function
+ *
+ * Return: 0 
  */
+
 int main(void)
 {
 	puts("\"Programming is like building a multilingual puzzle");
