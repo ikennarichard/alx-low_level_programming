@@ -6,6 +6,7 @@
  *
  * Description: Assign random number to n
  *
+ * Return: 0
  */
 int main(void)
 {
