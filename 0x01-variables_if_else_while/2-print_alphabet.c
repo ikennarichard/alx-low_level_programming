@@ -1,3 +1,5 @@
+#include <stdlib.h>
+#include <time.h>
 #include <stdio.h>
 /**
  * main - The start point of our program
