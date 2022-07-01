@@ -9,6 +9,7 @@
 int main(void)
 {
 	char lt = 'a';
+
 	while (lt <= 'z')
 	{
 		putchar(lt);
