@@ -8,15 +8,15 @@
  */
 int main(void)
 {
-	int num = 48;
+	int digit = 48;
 
-	while (num <= 102)
+	while (digit <= 102)
 	{
-		putchar(num);
+		putchar(digit);
 
-		if (num == 57)
-			num+=39
-		++num;
+		if (digit == 57)
+			digit+=39
+		++digit;
 	}
 	putchar('\n');
 	return (0);
