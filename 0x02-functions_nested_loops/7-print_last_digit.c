@@ -4,6 +4,8 @@
  *
  * @n: number input
  *
+ *Descritpion: a function that prints the last digit of a number
+ *
  * Return: value of te last digit
  */
 int print_last_digit(int n)
