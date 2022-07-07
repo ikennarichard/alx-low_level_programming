@@ -2,6 +2,7 @@
 
 /**
  * print_square - print a square with #
+ *
  * @size: is the size of the square
  *
  * Return: 0
