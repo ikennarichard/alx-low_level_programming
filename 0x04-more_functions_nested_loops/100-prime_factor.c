@@ -8,7 +8,7 @@
  * Return: square root of x
  */
 
-double _sqrt(dounble x)
+double _sqrt(double x)
 {
 	float sqrt, tmp;
 
@@ -36,7 +36,7 @@ void prime_factor(long int num)
 	while (num % 2 == 0)
 		num = num / 2;
 
-	for (prmNu = 3; prmnu <= _sqrt(num); prmNu +=2)
+	for (prmNu = 3; prmNu <= _sqrt(num); prmNu +=2)
 	{
 		while (num % prmNu == 0)
 		{
