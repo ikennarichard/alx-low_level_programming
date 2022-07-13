@@ -12,10 +12,9 @@ void print_rev(char *s)
 {
 	int pointer;
 
-	for (pointer = 0; s[pointer] != '\0'; ++index)
-		;
+	for (pointer = 0; s[pointer] != '\0'; ++pointer)
 
-	for (--pointer; pointer >= 0; --poinnter)
+	for (--pointer; pointer >= 0; --pointer)
 		_putchar(s[pointer]);
 	_putchar('\n');
 }
