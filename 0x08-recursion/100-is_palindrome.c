@@ -4,7 +4,7 @@
  * _strlen_recursion - returns length of string
  * @s: string
  *
- * return: the length of a string
+ * Return: the length of a string
  */
 int _strlen_recursion(char *s)
 {
@@ -19,7 +19,7 @@ int _strlen_recursion(char *s)
  * @s: string
  * @n1: smallest repeater
  * @n2: larget repeater
- * 
+ *
  * Return: (.)
  */
 int _compare(char *s, int n1, int n2)
